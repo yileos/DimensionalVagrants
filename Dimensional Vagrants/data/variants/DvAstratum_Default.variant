@@ -1,0 +1,88 @@
+{
+    "displayName": "Default",
+    "fluxCapacitors": 50,
+    "fluxVents": 19,
+    "goalVariant": false,
+    "hullId": "DvAstratum",
+    "hullMods": [
+        "advancedoptics",
+        "advancedshieldemitter",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "DvAstratum_Default",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0020": "hammerrack",
+                "WS0028": "hammerrack",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0023": "heatseeker",
+                "WS0022": "heatseeker",
+                "WS0025": "heatseeker",
+                "WS0024": "heatseeker",
+                "WS0021": "heatseeker",
+                "WS0026": "heatseeker",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "ionbeam",
+                "WS0002": "ionbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "ionbeam",
+                "WS0004": "ionbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0016": "pdlaser",
+                "WS0015": "pdlaser",
+                "WS0018": "pdlaser",
+                "WS0017": "pdlaser",
+                "WS0012": "pdlaser",
+                "WS0011": "pdlaser",
+                "WS0014": "pdlaser",
+                "WS0013": "pdlaser",
+                "WS0010": "pdlaser",
+                "WS0009": "pdlaser",
+                "WS0008": "pdlaser",
+                "WS0005": "pdlaser",
+                "WS0027": "pdlaser",
+                "WS0007": "pdlaser",
+                "WS0029": "pdlaser",
+                "WS0006": "pdlaser",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0019": "vortex_launcher",
+            }
+        },
+    ],
+    "wings": [
+        "aspect_shock_wing",
+        "aspect_shock_wing",
+    ],
+    "modules": [],
+}

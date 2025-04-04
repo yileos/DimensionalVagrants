@@ -1,0 +1,20 @@
+{
+  "combatSmall": {
+    "Archeon_Default": 10,
+    "Cromen_Default": 8,
+    "DvFuri_Default": 10
+  },
+  "combatMedium": {
+    "DvLongellus_Default": 8,
+    "DvTraverser_Default": 6,
+    "DvTridentus_Default": 6
+  },
+  "combatLarge": {
+    "DvUltrafuri_Default": 4,
+    "Pride_Default": 4,
+    "DvAstratum_Default": 5
+  },
+  "combatFreighter": {
+    "redhull_Default": 3
+  }
+}

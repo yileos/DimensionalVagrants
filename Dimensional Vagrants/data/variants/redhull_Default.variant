@@ -1,0 +1,61 @@
+{
+    "displayName": "Default",
+    "fluxCapacitors": 20,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "redhull",
+    "hullMods": [],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "redhull_Default",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "plasma",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0010": "squall",
+                "WS0009": "squall",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "cryoflux",
+                "WS0002": "cryoflux",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0011": "minipulser",
+                "WS0004": "minipulser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0014": "minipulser",
+                "WS0021": "minipulser",
+                "WS0020": "minipulser",
+                "WS0019": "minipulser",
+                "WS0016": "minipulser",
+                "WS0015": "minipulser",
+                "WS0018": "minipulser",
+                "WS0017": "minipulser",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

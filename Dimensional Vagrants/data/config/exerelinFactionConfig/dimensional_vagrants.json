@@ -1,0 +1,28 @@
+{
+  "playableFaction": true,
+  "corvusCompatible": true,
+  
+  "directoryUseShortName": true,
+  
+  "startRelationships": {},
+  "morality": "neutral",
+
+  "diplomacyTraits": ["opportunistic", "unpredictable"],
+
+  "colonyExpeditionChance": 1.0,
+
+  "startShipsCombatSmall": [["wolf_d", "lasher_d"]],
+  "startShipsCombatLarge": [["hammerhead_Balanced", "wolf_Assault", "lasher_Standard"]],
+  "startShipsTradeSmall": [["buffalo_Standard", "hound_Standard"]],
+  "startShipsTradeLarge": [["tarsus_Standard", "mule_Standard"]],
+  "startShipsExplorerLarge": [["venture_Balanced", "wayfarer_Standard"]],
+  "startShipsCarrierSmall": [["condor_Support", "lasher_Standard"]],
+  "startShipsCarrierLarge": [["mora_Strike", "heron_Strike"]],
+  "startShipsSuper": [["prometheus_Support", "onslaught_Elite"]],
+
+  "startSpecialItems": [],
+  
+  "defenceStations": [
+    {"ids": ["orbitalstation", "battlestation", "starfortress"]}
+  ]
+}

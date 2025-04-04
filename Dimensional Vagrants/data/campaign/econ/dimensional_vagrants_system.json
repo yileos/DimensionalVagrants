@@ -1,0 +1,26 @@
+{
+  "starSystem": "dimensional_vagrants_system",
+  "markets": [
+    {
+      "entities": [
+        "vagrant_station"
+      ],
+      "faction": "dimensional_vagrants",
+      "size": 5,
+      "freePort": true,
+      "startingConditions": [
+        "population_5",
+        "no_atmosphere",
+        "cold",
+        "volatiles_abundant"
+      ],
+      "industries": [
+        "population",
+        "spaceport",
+        "fuelprod",
+        "militarybase",
+        "orbitalworks"
+      ]
+    }
+  ]
+}

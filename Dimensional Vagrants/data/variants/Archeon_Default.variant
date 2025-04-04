@@ -1,0 +1,97 @@
+{
+    "displayName": "Default",
+    "fluxCapacitors": 30,
+    "fluxVents": 1,
+    "goalVariant": false,
+    "hullId": "Archeon",
+    "hullMods": [
+        "auxiliarythrusters",
+        "dedicated_targeting_core",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "Archeon_Default",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "mjolnir",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0034": "resonatormrm",
+                "WS0033": "resonatormrm",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0021": "hil",
+                "WS0020": "hil",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0030": "taclaser",
+                "WS0032": "taclaser",
+                "WS0031": "taclaser",
+                "WS0026": "taclaser",
+                "WS0029": "taclaser",
+                "WS0028": "taclaser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0023": "pdburst",
+                "WS0022": "pdburst",
+                "WS0025": "pdburst",
+                "WS0024": "pdburst",
+                "WS0019": "pdburst",
+                "WS0018": "pdburst",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0002": "heavyburst",
+                "WS0005": "heavyburst",
+                "WS0007": "heavyburst",
+                "WS0006": "heavyburst",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0016": "vulcan",
+                "WS0015": "vulcan",
+                "WS0017": "vulcan",
+                "WS0012": "vulcan",
+                "WS0011": "vulcan",
+                "WS0014": "vulcan",
+                "WS0013": "vulcan",
+                "WS0010": "vulcan",
+                "WS0009": "vulcan",
+                "WS0008": "vulcan",
+            }
+        },
+    ],
+    "wings": [
+        "aspect_shieldbreaker_wing",
+        "aspect_shieldbreaker_wing",
+        "aspect_shieldbreaker_wing",
+        "aspect_shieldbreaker_wing",
+    ],
+    "modules": [],
+}
