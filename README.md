@@ -19,3 +19,6 @@ DvUltrafuri
 DvLongellus
 
 DvAstratum
+
+
+Not sure how to mark it as such on github yet but I consider this open source and anyone who wants to make their own version of it they're welcome to
