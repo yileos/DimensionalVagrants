@@ -21,4 +21,4 @@ DvLongellus
 DvAstratum
 
 
-Not sure how to mark it as such on github yet but I consider this(the mod) open source and anyone who wants to make their own version of it they're welcome to
+Not sure how to mark it as such on github yet but I consider this(the mod) open source and anyone who wants to make their own version of it is welcome to
