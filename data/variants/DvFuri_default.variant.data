@@ -1,0 +1,45 @@
+{
+    "displayName": "default",
+    "fluxCapacitors": 20,
+    "fluxVents": 20,
+    "goalVariant": false,
+    "hullId": "DvFuri",
+    "hullMods": [
+        "armoredweapons",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "DvFuri_default",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0002": "hveldriver",
+                "WS0005": "hveldriver",
+                "WS0004": "hveldriver",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0011": "resonatormrm",
+                "WS0010": "resonatormrm",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "minipulser",
+                "WS0003": "minipulser",
+                "WS0007": "minipulser",
+                "WS0006": "minipulser",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

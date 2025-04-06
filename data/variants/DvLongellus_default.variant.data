@@ -1,0 +1,73 @@
+{
+    "displayName": "default",
+    "fluxCapacitors": 50,
+    "fluxVents": 45,
+    "goalVariant": false,
+    "hullId": "DvLongellus",
+    "hullMods": [],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "DvLongellus_default",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0021": "phasecl",
+                "WS0020": "phasecl",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0017": "annihilator",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "tachyonlance",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0023": "voidblaster",
+                "WS0024": "voidblaster",
+                "WS0016": "voidblaster",
+                "WS0015": "voidblaster",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0014": "minipulser",
+                "WS0013": "minipulser",
+                "WS0010": "minipulser",
+                "WS0009": "minipulser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0012": "pdburst",
+                "WS0011": "pdburst",
+                "WS0003": "pdburst",
+                "WS0002": "pdburst",
+                "WS0008": "pdburst",
+                "WS0005": "pdburst",
+                "WS0004": "pdburst",
+                "WS0007": "pdburst",
+                "WS0006": "pdburst",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

@@ -1,0 +1,266 @@
+{
+  "hullName": "Ultrafuri",
+  "hullId": "DvUltrafuri",
+  "hullSize": "CRUISER",
+  "spriteName": "graphics/ships/ultrafuri.png",
+  "style": "HIGH_TECH",
+  "height": 280,
+  "width": 240,
+  "center": [120.5, 145],
+  "collisionRadius": 156.5,
+  "shieldCenter": [0, -0],
+  "shieldRadius": 153.5,
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "id": "WS0003",
+      "size": "LARGE",
+      "type": "UNIVERSAL",
+      "mount": "HARDPOINT",
+      "arc": 360,
+      "angle": -0,
+      "locations": [-17.5, -0.5]
+    },
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 83,
+      "angle": 180,
+      "locations": [-69, 51]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 83,
+      "angle": -180,
+      "locations": [-69, -51]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 83,
+      "angle": 0,
+      "locations": [67, 56]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 83,
+      "angle": -0,
+      "locations": [67, -56]
+    },
+    {
+      "id": "WS0007",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 83,
+      "angle": 0,
+      "locations": [36, 11.5]
+    },
+    {
+      "id": "WS0008",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 83,
+      "angle": -0,
+      "locations": [36, -11.5]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 83,
+      "angle": 180,
+      "locations": [-61.5, 10.5]
+    },
+    {
+      "id": "WS0009",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 83,
+      "angle": -180,
+      "locations": [-61.5, -10.5]
+    },
+    {
+      "id": "WS0012",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 83,
+      "angle": 0,
+      "locations": [33.5, 51.5]
+    },
+    {
+      "id": "WS0013",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 83,
+      "angle": -0,
+      "locations": [33.5, -51.5]
+    },
+    {
+      "id": "WS0010",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 88,
+      "angle": -4.5,
+      "locations": [-28.5, 44.5]
+    },
+    {
+      "id": "WS0011",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 88,
+      "angle": 4.5,
+      "locations": [-28.5, -44.5]
+    },
+    {
+      "id": "WS0016",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 270,
+      "angle": 180,
+      "locations": [2, 79.5]
+    },
+    {
+      "id": "WS0017",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 270,
+      "angle": -180,
+      "locations": [2, -79.5]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-120.5, 53],
+      "length": 25,
+      "width": 9,
+      "angle": -180,
+      "contrailSize": 20,
+      "style": "CUSTOM",
+      "styleId": "ATTACK_SWARM"
+    },
+    {
+      "location": [-120.5, -53],
+      "length": 25,
+      "width": 9,
+      "angle": 180,
+      "contrailSize": 20,
+      "style": "CUSTOM",
+      "styleId": "ATTACK_SWARM"
+    },
+    {
+      "location": [-120.5, 48.5],
+      "length": 25,
+      "width": 9,
+      "angle": -180,
+      "contrailSize": 20,
+      "style": "CUSTOM",
+      "styleId": "ATTACK_SWARM"
+    },
+    {
+      "location": [-120.5, -48.5],
+      "length": 25,
+      "width": 9,
+      "angle": 180,
+      "contrailSize": 20,
+      "style": "CUSTOM",
+      "styleId": "ATTACK_SWARM"
+    },
+    {
+      "location": [-120.5, 38.5],
+      "length": 25,
+      "width": 9,
+      "angle": -180,
+      "contrailSize": 20,
+      "style": "CUSTOM",
+      "styleId": "ATTACK_SWARM"
+    },
+    {
+      "location": [-120.5, -38.5],
+      "length": 25,
+      "width": 9,
+      "angle": 180,
+      "contrailSize": 20,
+      "style": "CUSTOM",
+      "styleId": "ATTACK_SWARM"
+    },
+    {
+      "location": [-120.5, 43],
+      "length": 25,
+      "width": 9,
+      "angle": -180,
+      "contrailSize": 20,
+      "style": "CUSTOM",
+      "styleId": "ATTACK_SWARM"
+    },
+    {
+      "location": [-120.5, -43],
+      "length": 25,
+      "width": 9,
+      "angle": 180,
+      "contrailSize": 20,
+      "style": "CUSTOM",
+      "styleId": "ATTACK_SWARM"
+    },
+    {
+      "location": [-69, 25],
+      "length": 25,
+      "width": 9,
+      "angle": -180,
+      "contrailSize": 20,
+      "style": "CUSTOM",
+      "styleId": "ATTACK_SWARM"
+    },
+    {
+      "location": [-69, -25],
+      "length": 25,
+      "width": 9,
+      "angle": 180,
+      "contrailSize": 20,
+      "style": "CUSTOM",
+      "styleId": "ATTACK_SWARM"
+    }
+  ],
+  "bounds": [
+    129, -1,
+    37.5, 28,
+    42.5, 47.5,
+    117, 35.5,
+    45, 91.5,
+    -75, 91.5,
+    -36.5, 68.5,
+    -129, 80,
+    -126.5, 36.5,
+    -58.5, 19.5,
+    -130, 7.5,
+    -129.5, -7.5,
+    -61.5, -20,
+    -129.5, -36,
+    -128.5, -77,
+    -40, -66,
+    -74.5, -91.5,
+    56, -85.5,
+    113, -36.5,
+    39.5, -44,
+    37, -23.5
+  ]
+}

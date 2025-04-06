@@ -1,0 +1,53 @@
+{
+    "Astratum_bounty": {
+        "required_mods_id": ["dimensional_vagrants"],
+		"trigger_marketFaction_any": [ "independent" ],
+		"trigger_market_id": ["cethlenn"],
+        "trigger_market_minSize": 3,
+        "trigger_player_minLevel": 1,
+        "trigger_min_fleet_size": 0,
+        "trigger_min_days_elapsed": 1,
+        "trigger_weight_mult": 2.35,
+        "job_name": "Astratum Sighting",
+        "job_description": "Alert for $playername: An interdimensional ship has been spotted. \nTime is of utmost importance here. The Astratum is reported to be a particularly dangerous vessel. It's captain has gone mad after traversing the rift and crossing into our dimension, as it tends to happen. Peaceful resolution is no longer an option.",
+        "job_comm_reply": "Do you see the strings!? The wires!? I'll help you see!",
+        "job_forFaction": "independent",
+        "job_deadline": 360,
+        "job_credit_reward": 150000,
+        "job_reward_scaling": 1.1,
+        "job_reputation_reward": 7,
+        "job_item_reward": {
+            "pristine_nanoforge": 1,
+            "ship_bp Astratum": 1
+        },
+        "job_type": "assassination",
+        "job_show_type": true,
+        "job_show_captain": true,
+        "job_show_fleet": "all",
+        "job_show_distance": "exact",
+        "job_difficultyDescription": "auto",
+        "target_personality": "aggressive",
+        "target_aiCoreId": null,
+        "target_level": 5,
+        "target_elite_skills": 1,
+        "target_skill_preference": "ANY",
+        "fleet_name": "Astratum",
+        "fleet_faction": "pirate",
+        "fleet_flagship_variant": "DvAstratum_Default",
+        "fleet_flagship_name": "Astratum",
+        "fleet_flagship_alwaysRecoverable": true,
+        "fleet_preset_ships": {
+            "DvAstratum_Default": 1
+        },
+        "fleet_preset_autofit": true,
+        "fleet_scaling_multiplier": 1,
+        "fleet_min_FP": 90,
+        "fleet_composition_faction": "pirates",
+        "fleet_composition_quality": 2,
+        "fleet_behavior": "aggressive",
+        "fleet_musicSetId": "music_combat",
+        "location_prioritizeUnexplored": true,
+        "location_defaultToAnyEntity": true
+    }
+    
+}
