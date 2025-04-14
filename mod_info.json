@@ -2,10 +2,10 @@
   "id": "dimensional_vagrants",
   "name": "Dimensional Vagrants",
   "author": "...",
-  "version": "0.5",
+  "version": "0.7",
   "description": "Faction mod introducing the Dimensional Vagrants.",
   "gameVersion": "0.98a",
-  "jars": ["jars/Dimensional Vagrants.jar"],
-  "modPlugin": "dimensionalvagrants.DimensionalVagrantsModPlugin",
+
+
 
 }

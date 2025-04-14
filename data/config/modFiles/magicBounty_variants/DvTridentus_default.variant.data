@@ -1,0 +1,64 @@
+{
+    "displayName": "default",
+    "fluxCapacitors": 30,
+    "fluxVents": 30,
+    "goalVariant": false,
+    "hullId": "DvTridentus",
+    "hullMods": [
+        "dedicated_targeting_core",
+        "fluxcoil",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "DvTridentus_default",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0010": "gigacannon",
+                "WS0009": "gigacannon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0012": "ionbeam",
+                "WS0019": "ionbeam",
+                "WS0018": "ionbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "minipulser",
+                "WS0011": "minipulser",
+                "WS0003": "minipulser",
+                "WS0002": "minipulser",
+                "WS0030": "minipulser",
+                "WS0031": "minipulser",
+                "WS0005": "minipulser",
+                "WS0004": "minipulser",
+                "WS0029": "minipulser",
+                "WS0006": "minipulser",
+                "WS0028": "minipulser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0008": "ionbeam",
+                "WS0007": "ionbeam",
+            }
+        },
+    ],
+    "wings": [
+        "longbow_wing",
+        "longbow_wing",
+    ],
+    "modules": [],
+}

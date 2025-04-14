@@ -1,0 +1,57 @@
+{
+    "displayName": "default",
+    "fluxCapacitors": 30,
+    "fluxVents": 30,
+    "goalVariant": false,
+    "hullId": "redhull",
+    "hullMods": [],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "redhull_default",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0015": "tachyonlance",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0001": "dragon",
+                "WS0002": "dragon",
+                "WS0005": "dragon",
+                "WS0006": "dragon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0012": "ioncannon",
+                "WS0011": "ioncannon",
+                "WS0003": "ioncannon",
+                "WS0008": "ioncannon",
+                "WS0004": "ioncannon",
+                "WS0007": "ioncannon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0014": "ioncannon",
+                "WS0013": "ioncannon",
+                "WS0010": "ioncannon",
+                "WS0009": "ioncannon",
+            }
+        },
+    ],
+    "wings": [
+        "sarissa_wing",
+    ],
+    "modules": [],
+}
